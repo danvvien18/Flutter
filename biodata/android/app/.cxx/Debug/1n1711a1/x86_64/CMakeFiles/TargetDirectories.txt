@@ -1,0 +1,2 @@
+C:/semester6/tugas/biodata/android/app/.cxx/Debug/1n1711a1/x86_64/CMakeFiles/edit_cache.dir
+C:/semester6/tugas/biodata/android/app/.cxx/Debug/1n1711a1/x86_64/CMakeFiles/rebuild_cache.dir
